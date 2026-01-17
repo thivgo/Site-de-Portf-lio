@@ -67,10 +67,10 @@ Caso queira rodar localmente:
 
 Gostou do meu trabalho? Vamos conversar!
 
-<a href="https://www.linkedin.com/in/thiago-maues/">
+<a href="https://www.linkedin.com/in/thiagomvues/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:seu-email@exemplo.com">
+<a href="mailto:thiago.mauess@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -78,4 +78,4 @@ Gostou do meu trabalho? Vamos conversar!
 
 ## Autor
 
-Desenvolvido com 💙 por **Thiago Maués**.
+Desenvolvido por **Thiago Maués**.
