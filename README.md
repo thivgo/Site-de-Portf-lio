@@ -24,9 +24,6 @@ Aqui você encontrará:
 
 O layout foi pensado para ser **limpo, moderno e responsivo**, garantindo uma boa leitura tanto em celulares quanto em desktops.
 
-*(Espaço reservado para um print do seu site)*
-![Screenshot do Portfólio](https://via.placeholder.com/800x400?text=Adicione+um+Print+do+Seu+Site+Aqui)
-
 ---
 
 ## 🛠 Tecnologias Utilizadas
